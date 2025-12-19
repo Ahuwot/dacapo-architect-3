@@ -147,7 +147,7 @@ class Architect:
     
     def parse_file_blocks(self, response: str) -> Dict[str, str]:
         files = {}
-        pattern = r'<file\s+path=["\']([^"\']+ )["\']\s*>(.*?)</file>'
+        pattern = r'<file\s+path=["\']([^"\'>]+)["\']\s*>(.*?)</file>'
         for path, content in re.findall(pattern, response, re.DOTALL):
             files[path] = content.strip()
         return files
