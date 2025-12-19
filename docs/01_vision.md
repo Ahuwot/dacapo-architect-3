@@ -8,11 +8,15 @@ DaCapo Engine to local-first PKM dla śpiewaków operowych i studentów językó
 [PUSTE MIEJSCE: szczegółowy opis user persona]
 
 ## Core Philosophy
-- Local-first: Wszystkie dane w SQLite
-- Text-centric: Libreta, arie jako materiał edukacyjny
-- Iterative design: Architektura hermeneutyczna
+- Local-first: SQLite, zero chmury
+- Text-centric: Libreta, arie jako materiał
+- Context-aware: Uczenie w kontekście dramaturgii
+- Iterative design: Hermeneutyczna architektura
 
 ## Technical Stack
-- Backend: Python 3.10+, SQLite
-- AI: LLM agents
+- Python 3.10+, SQLite
+- AI: LLM agents (Architect, Analyst, Constructor, Critic)
 - UI: [PUSTE MIEJSCE]
+
+## Success Metrics
+[PUSTE MIEJSCE: KPI, milestones]
