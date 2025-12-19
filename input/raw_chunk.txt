@@ -1,0 +1,9 @@
+[PRZYKŁADOWY PRĄD - USUŃ I WKLEJ SWÓJ]
+
+Tutaj wklejaj surowe fragmenty rozmów, notatek, kodu do przetworzenia przez Architekta.
+
+Format opcjonalny:
+[ITERATION: 1]
+[SOURCE: conversation_with_gemini.txt]
+
+... treść prądu ...
